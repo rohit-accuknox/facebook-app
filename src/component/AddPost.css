@@ -32,19 +32,18 @@
 }
 
 .addpost-option {
-    padding: 10px;
+    padding: 5px;
     display: flex;
     align-items: center;
     margin: 5px;
 }
 
-.addpost-option>h3 {
-    font-size: medium;
+.addpost-option>h4 {
     margin-left: 10px;
     cursor: pointer;
 }
 
 .addpost-option:hover {
     background-color: #E4E6E9;
-    border-radius: 20px;
+    border-radius: 5px;
 }

@@ -19,15 +19,15 @@ const AddPost = () => {
       <div className="addpost-bottom">
         <div className="addpost-option">
           <VideoCameraFilled style={{ color: "red" }} />
-          <h3>Live Video</h3>
+          <h4>Live Video</h4>
         </div>
         <div className="addpost-option">
           <FileImageOutlined style={{ color: "green" }} />
-          <h3>Photo/Video</h3>
+          <h4>Photo/Video</h4>
         </div>
         <div className="addpost-option">
           <SmileOutlined style={{ color: "yellow" }} />
-          <h3>Feeling/Activity</h3>
+          <h4>Feeling/Activity</h4>
         </div>
       </div>
     </div>
